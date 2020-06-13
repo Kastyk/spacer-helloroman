@@ -9,7 +9,6 @@
         <p>{{ item.data[0].description }}</p>
       </li>
     </ul>
-
   </div>
 </template>
 
